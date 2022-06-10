@@ -104,6 +104,6 @@ CREATE
     
 */
 
-select * from estudiante;
-select * from docente;
-select * from acudiente;
+SELECT * FROM estudiante;
+SELECT * FROM docente;
+SELECT * FROM acudiente;
